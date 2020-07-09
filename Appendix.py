@@ -1,0 +1,1 @@
+print("Mateusz, bardzo dziękuję za Twoją cierpliwość i wyrozumiałość. :)")
