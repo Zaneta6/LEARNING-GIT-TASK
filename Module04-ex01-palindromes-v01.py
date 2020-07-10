@@ -1,4 +1,4 @@
-# Definition, which tells whether a word is a palindrome or not
+# Function, which tells whether a word is a palindrome or not
 
 def palindrome(word):
   if word == word[::-1]:
