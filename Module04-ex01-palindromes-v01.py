@@ -1,3 +1,5 @@
+# Definition, which tells whether a word is a palindrome or not
+
 def palindrome(word):
   if word == word[::-1]:
     print("True" + '\n' + f"The word {word} is a palindrome.")
